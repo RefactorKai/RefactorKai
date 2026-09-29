@@ -1,17 +1,17 @@
 # Hi, I'm RefactorKai (Nguyen Vinh) 👋
 
-I'm a **First-year Computer Science student** at **Ho Chi Minh University of Technology (HCMUT)**. 
+I'm a **Second-year Computer Science student** at **Ho Chi Minh University of Technology (HCMUT)**. 
 Currently learning how to turn caffeine into C++ code without the compiler yelling at me.
 
 ### 🛠️ What I'm learning right now:
-* **C++ Fundamentals**: Exploring memory, pointers, and why segmentation faults happen to good people.
-* **Algorithms**: Figuring out Bitmasking and Dynamic Programming for class assignments.
+* **DSA**: Something I might generally use in my life.
 * **Testing**: Writing basic test scripts to make sure my logic actually works before I submit it.
 
 ### 🎮 Interests:
 * Low-level programming and game logic.
 * Trying to write "clean" code (and then refactoring it five minutes later).
 * Solving puzzles that I created myself by making typos.
+* Actually building some applications (solo).
 
 ### 📫 You can give me some advices at:
 * **Location**: Ho Chi Minh City, Vietnam
